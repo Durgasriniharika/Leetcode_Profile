@@ -1,0 +1,25 @@
+vector<int> nodesBetweenCriticalPoints(ListNode* head) {
+       vector<int>res;
+       int idx=0;
+       ListNode* prev=nullptr;
+       ListNode* curr=head;
+       while(curr && curr->next){
+         if(prev && ((curr->val > prev->val && curr->val > curr->next->val) || (curr->val < prev->val && curr->val < curr->next->val)))
+         {
+            res.push_back(idx);
+         }
+         prev=curr;
+         curr=curr->next;
+         idx++;
+       }
+       if(res.size()<2){
+         return {-1,-1};
+       }
+       int mini=INT_MAX;
+       int maxi=res.back()-res.front();
+
+       for(int i=1;i<res.size();i++){
+          mini=min(mini, res[i]-res[i-1]);
+       }
+       return {mini,maxi};
+    }
