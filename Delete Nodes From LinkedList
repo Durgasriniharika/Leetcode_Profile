@@ -1,0 +1,62 @@
+//vector to linkedlist conversion
+    vector<int>linkedlisttovector(ListNode* head){
+        vector<int>arr;
+        while(head!=NULL){
+            arr.push_back(head->val);
+            head=head->next;
+        }
+        return arr;
+    }
+    
+    //linkedlist to vector conversion
+    ListNode*vectortolinkedlist(vector<int>vec){
+        if(vec.empty()) return NULL;
+        ListNode* head=new ListNode(vec[0]);
+        ListNode* current=head;
+        for(int i=1;i<vec.size();i++){
+            current->next=new ListNode(vec[i]);
+            current=current->next;
+        }
+        return head;
+    }
+    
+    //perform given operation on vector
+    ListNode* modifiedList(vector<int>& nums, ListNode* head) {
+        vector<int>list=linkedlisttovector(head);
+        
+        unordered_set<int>s(nums.begin(),nums.end());
+        
+        vector<int>res;
+        
+        for(auto it:list){
+            if(s.find(it)==s.end()){
+                res.push_back(it);
+            }
+        }
+        
+        //return output by convert it into linkedlist
+        return vectortolinkedlist(res);
+    }
+
+
+
+
+//perform operation on linkedlist without converting it into vector (general solution)
+ListNode* modifiedList(vector<int>& nums, ListNode* head) {
+        unordered_set<int>s(nums.begin(),nums.end());
+        
+        ListNode dummy(0);
+        dummy.next=head;
+        ListNode* current=&dummy;
+        
+        while(current->next!=NULL){
+            if(s.count(current->next->val)){
+                current->next=current->next->next;
+            }
+            else{
+                current=current->next;
+            }
+        }
+        
+        return dummy.next;
+    }
