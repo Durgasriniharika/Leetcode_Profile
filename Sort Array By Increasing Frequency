@@ -1,0 +1,23 @@
+class Solution {
+public:
+    static bool iscompare(pair<int,int>a,pair<int,int>b){
+        if(a.second==b.second){
+            return a.first>b.first;
+        }
+        return a.second<b.second;
+    }
+    vector<int> frequencySort(vector<int>& nums) {
+        unordered_map<int,int>mp;
+        vector<int>res;
+        for(auto num:nums){
+            mp[num]++;
+        }
+       vector<pair<int,int>>vec(mp.begin(),mp.end());
+
+       sort(vec.begin(),vec.end(), iscompare);
+       for(auto it:vec){
+          res.insert(res.end(),it.second,it.first);
+       }
+        return res;
+    }
+};
