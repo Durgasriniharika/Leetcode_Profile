@@ -1,0 +1,56 @@
+class neighborSum {
+private:
+    vector<vector<int>>grid;
+    int n;
+    unordered_map<int, pair<int,int>>mp;
+    public:
+    neighborSum(vector<vector<int>>& grid): grid(grid) {
+        n=grid.size();
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                mp[grid[i][j]]={i,j};
+            }
+        }
+    }
+    
+    int adjacentSum(int value) {
+        if(mp.find(value)==mp.end()){
+            return -1;
+        }
+        int x=mp[value].first;
+        int y=mp[value].second;
+        int sum=0;
+        vector<pair<int,int>>adj_pos={{x-1,y},{x+1,y},{x,y-1},{x,y+1}};
+        for(auto num:adj_pos){
+            int i=num.first, j=num.second;
+            if(i>=0 && i<n && j>=0 && j<n){
+                sum+=grid[i][j];
+            }
+        }
+        return sum;
+    }
+    
+    int diagonalSum(int value) {
+        if(mp.find(value)==mp.end()){
+            return -1;
+        }
+        int x=mp[value].first;
+        int y=mp[value].second;
+        int sum=0;
+        vector<pair<int,int>>diag_pos={{x-1,y-1},{x-1,y+1},{x+1,y-1},{x+1,y+1}};
+        for(auto num:diag_pos){
+            int i=num.first, j=num.second;
+            if(i>=0 && i<n && j>=0 && j<n){
+                sum+=grid[i][j];
+            }
+        }
+        return sum;
+    }
+};
+
+/**
+ * Your neighborSum object will be instantiated and called as such:
+ * neighborSum* obj = new neighborSum(grid);
+ * int param_1 = obj->adjacentSum(value);
+ * int param_2 = obj->diagonalSum(value);
+ */
