@@ -1,0 +1,70 @@
+class Solution {
+public:
+
+    bool all_elements_diff(int row,int col, vector<vector<int>>&grid){
+        vector<bool>res(10);
+        for(int i=row;i<row+3;i++){
+            for(int j=col;j<col+3;j++){
+                int num=grid[i][j];
+                if(num<1 || num>9){
+                    return false;
+                }
+                if(res[num]){
+                    return false;
+                }
+                res[num]=true;
+            }
+        }
+        for(int num=1;num<=9;num++){
+            if(!res[num]){
+                return false;
+            }
+        }
+        return true;
+    }
+
+    bool row_sum(int row,int col,vector<vector<int>>&grid){
+        for(int i=row;i<row+3;i++){
+            int row_sum=grid[i][col]+grid[i][col+1]+grid[i][col+2];
+            if(row_sum!=15){
+                return false;
+            }
+        }
+        return true;
+    }
+
+    bool col_sum(int row,int col,vector<vector<int>>&grid){
+        for(int j=col;j<col+3;j++){
+            int col_sum=grid[row][j]+grid[row+1][j]+grid[row+2][j];
+            if(col_sum!=15){
+                return false;
+            }
+        }
+        return true;
+    }
+
+    bool diag_sum(int row,int col,vector<vector<int>>&grid){
+        int left_to_right=grid[row][col]+grid[row+1][col+1]+grid[row+2][col+2];
+        int right_to_left=grid[row][col+2]+grid[row+1][col+1]+grid[row+2][col];
+
+        return left_to_right==15 && right_to_left==15;
+    }
+    
+    int numMagicSquaresInside(vector<vector<int>>& grid) {
+        if(grid.size()<3 || grid[0].size()<3){
+            return 0;
+        }
+        int r=grid.size();
+        int c=grid[0].size();
+        int count=0;
+        for(int i=0;i<r-2;i++){
+            for(int j=0;j<c-2;j++){
+                if(all_elements_diff(i,j,grid) && row_sum(i,j,grid) 
+                && col_sum(i,j,grid) && diag_sum(i,j,grid)){
+                    count++;
+                }
+            }
+        }
+        return count;
+    }
+};
