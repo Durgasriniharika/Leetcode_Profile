@@ -1,0 +1,14 @@
+int findComplement(int num) {
+        if(num==0) return 1;
+        unsigned long long  temp=num;
+        unsigned long long count=0;
+        while(num!=0){
+            num=num>>1;
+            count++;
+        }
+        unsigned long long mask=(1ULL<<count)-1;
+
+        unsigned long long result=temp^mask;
+
+        return result;
+    }
