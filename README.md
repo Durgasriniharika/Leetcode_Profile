@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1035-cousins-in-binary-tree](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1035-cousins-in-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
