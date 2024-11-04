@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1873-longest-nice-substring](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1873-longest-nice-substring) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0022-generate-parentheses) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1873-longest-nice-substring](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1873-longest-nice-substring) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Dynamic Programming
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1873-longest-nice-substring](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1873-longest-nice-substring) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Tree
 |  |
@@ -84,5 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1873-longest-nice-substring](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1873-longest-nice-substring) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
