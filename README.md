@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0605-can-place-flowers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1873-longest-nice-substring](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1873-longest-nice-substring) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Tree
 |  |
 | ------- |
