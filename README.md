@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1873-longest-nice-substring](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1873-longest-nice-substring) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Tree
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Tree
@@ -111,12 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0605-can-place-flowers) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
