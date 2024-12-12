@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Backtracking
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
