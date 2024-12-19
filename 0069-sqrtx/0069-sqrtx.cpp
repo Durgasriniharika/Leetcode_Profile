@@ -2,10 +2,10 @@ class Solution {
 public:
     int mySqrt(int x) {
        int low=0,high=x;
-       int res=-1;
+       long long int res=-1;
        while(low<=high){
-            int mid=low+(high-low)/2;
-            int square=mid*mid;
+            long long int mid=low+(high-low)/2;
+            long long int square=mid*mid;
             if(square==x){
                 return mid;
             }
