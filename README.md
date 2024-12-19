@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0069-sqrtx) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2716-prime-subtraction-operation](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0069-sqrtx) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
