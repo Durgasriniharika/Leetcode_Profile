@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0022-generate-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0435-non-overlapping-intervals) |
 | [1063-best-sightseeing-pair](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1063-best-sightseeing-pair) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2562-count-ways-to-build-good-strings) |
 ## Hash Table
 |  |
 | ------- |
