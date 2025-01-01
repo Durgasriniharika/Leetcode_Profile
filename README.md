@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0022-generate-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2868-continuous-subarrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
