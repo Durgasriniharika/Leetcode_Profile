@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0057-insert-interval) |
 | [0435-non-overlapping-intervals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0435-non-overlapping-intervals) |
+| [0560-subarray-sum-equals-k](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0780-max-chunks-to-make-sorted) |
 | [1063-best-sightseeing-pair](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1063-best-sightseeing-pair) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1873-longest-nice-substring](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1873-longest-nice-substring) |
@@ -212,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
