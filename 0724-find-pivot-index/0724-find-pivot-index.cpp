@@ -6,14 +6,13 @@ public:
             total+=it;
         }
         int prefix=0;
-        int idx=-1;
+        //int idx=-1;
         for(int i=0;i<nums.size();i++){
-           
-            int suffix=total-prefix-nums[i];
-            if(prefix==suffix){
+            prefix+=nums[i];
+            int suffix=total-prefix;
+            if(prefix-nums[i]==suffix){
                 return i;
             }
-             prefix+=nums[i];
         }
         return -1;
     }
