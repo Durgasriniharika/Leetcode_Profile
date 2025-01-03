@@ -10,9 +10,11 @@ public:
         for(int i=0;i<nums.size();i++){
             prefix+=nums[i];
             int suffix=total-prefix;
-            if(prefix-nums[i]==suffix){
+            prefix-=nums[i];
+            if(prefix==suffix){
                 return i;
             }
+            prefix+=nums[i];
         }
         return -1;
     }
