@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0203-remove-linked-list-elements) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -270,4 +271,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
