@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0258-add-digits) |
 | [0910-nth-magical-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0910-nth-magical-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2716-prime-subtraction-operation](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0435-non-overlapping-intervals) |
 | [1063-best-sightseeing-pair](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1063-best-sightseeing-pair) |
+| [1236-n-th-tribonacci-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1236-n-th-tribonacci-number) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2562-count-ways-to-build-good-strings) |
 ## Hash Table
 |  |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
