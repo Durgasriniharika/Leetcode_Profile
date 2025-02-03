@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
