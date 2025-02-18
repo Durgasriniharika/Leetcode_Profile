@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0780-max-chunks-to-make-sorted) |
+| [0979-di-string-match](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0979-di-string-match) |
 | [1063-best-sightseeing-pair](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1063-best-sightseeing-pair) |
 | [1396-count-servers-that-communicate](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0392-is-subsequence) |
+| [0979-di-string-match](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0979-di-string-match) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1502-construct-k-palindrome-strings) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0780-max-chunks-to-make-sorted) |
+| [0979-di-string-match](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0979-di-string-match) |
 | [1502-construct-k-palindrome-strings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1917-maximum-average-pass-ratio) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0392-is-subsequence) |
+| [0979-di-string-match](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0979-di-string-match) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
