@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1160-letter-tile-possibilities) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -279,10 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
