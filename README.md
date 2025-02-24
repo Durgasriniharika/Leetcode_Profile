@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3291-find-if-array-can-be-sorted) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Binary Tree
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2716-prime-subtraction-operation) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Ordered Set
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1396-count-servers-that-communicate) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2685-first-completely-painted-row-or-column) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Union Find
 |  |
 | ------- |
