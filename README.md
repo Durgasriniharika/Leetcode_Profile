@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2716-prime-subtraction-operation) |
 | [2868-continuous-subarrays](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2868-continuous-subarrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2716-prime-subtraction-operation) |
+| [3227-find-missing-and-repeated-values](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Tree
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1396-count-servers-that-communicate) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2685-first-completely-painted-row-or-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Union Find
 |  |
