@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0979-di-string-match) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1364-tuple-with-same-product) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0643-maximum-average-subarray-i) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1873-longest-nice-substring) |
 | [2868-continuous-subarrays](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2868-continuous-subarrays) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
