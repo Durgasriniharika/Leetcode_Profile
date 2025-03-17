@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2481-strictly-palindromic-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2481-strictly-palindromic-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2716-prime-subtraction-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Linked List
 |  |
