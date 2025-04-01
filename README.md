@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0780-max-chunks-to-make-sorted) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0940-fruit-into-baskets) |
 | [0979-di-string-match](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0979-di-string-match) |
 | [1063-best-sightseeing-pair](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1063-best-sightseeing-pair) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0940-fruit-into-baskets) |
 | [1160-letter-tile-possibilities](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
