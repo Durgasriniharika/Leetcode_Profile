@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2308-divide-array-into-equal-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2481-strictly-palindromic-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2481-strictly-palindromic-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2716-prime-subtraction-operation) |
@@ -101,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0022-generate-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1873-longest-nice-substring) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2478-longest-nice-subarray) |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String
 |  |
@@ -401,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
