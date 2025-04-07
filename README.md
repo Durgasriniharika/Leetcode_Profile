@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0057-insert-interval) |
 | [0139-word-break](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0139-word-break) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0905-length-of-longest-fibonacci-subsequence) |
