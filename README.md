@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0940-fruit-into-baskets) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0392-is-subsequence) |
 | [0979-di-string-match](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0979-di-string-match) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0234-palindrome-linked-list) |
 ## Matrix
