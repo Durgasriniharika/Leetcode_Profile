@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0074-search-a-2d-matrix) |
 | [0139-word-break](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0605-can-place-flowers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0747-min-cost-climbing-stairs) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0374-guess-number-higher-or-lower) |
 | [0910-nth-magical-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0910-nth-magical-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1335-maximum-candies-allocated-to-k-children) |
