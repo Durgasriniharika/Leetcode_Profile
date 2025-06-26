@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0234-palindrome-linked-list) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3799-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2998-count-symmetric-integers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3799-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
