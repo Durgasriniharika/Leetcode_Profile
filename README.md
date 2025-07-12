@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0258-add-digits) |
 | [0910-nth-magical-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0910-nth-magical-number) |
