@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
