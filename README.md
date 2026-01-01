@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0074-search-a-2d-matrix) |
 | [0139-word-break](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0139-word-break) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0258-add-digits) |
 | [0910-nth-magical-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0910-nth-magical-number) |
