@@ -3,25 +3,20 @@ public:
     int sumFourDivisors(vector<int>& nums) {
         int total_sum=0;
         for(auto it:nums){
-            int cnt=0;
-            int sum=0;
+            vector<int>divs;
             for(int i=1;i*i<=it;i++){
                 if(it%i==0){
-                    int n1=i;
-                    int n2=it/i;
-
-                    cnt++;
-                    sum+=i;
-
-                    if(n1!=n2){
-                        cnt++;
-                        sum+=n2;
+                    divs.push_back(i);
+                    if(i!=it/i){
+                        divs.push_back(it/i);
                     }
-                    if(cnt>4) break;
                 }
+                if(divs.size()>4) break;
             }
-            if(cnt==4){
-                total_sum+=sum;
+            if(divs.size()==4){
+                for(auto num:divs){
+                    total_sum+=num;
+                }
             }
         }
         return total_sum;
