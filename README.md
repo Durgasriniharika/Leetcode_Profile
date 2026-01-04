@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1063-best-sightseeing-pair) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-nth-magical-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/0910-nth-magical-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1236-n-th-tribonacci-number) |
+| [1390-four-divisors](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1390-four-divisors) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Durgasriniharika/Leetcode_Profile/tree/master/1951-find-the-winner-of-the-circular-game) |
